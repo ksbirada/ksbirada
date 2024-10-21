@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Kalyani Biradar and I have graduated with a Master's degree in Computer Science from [Syracuse University](https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science). I am a Software Developer with three years of experience working as a Salesforce Developer at [Infosys Limited](https://www.infosys.com/). My technology stack involves Java, Python, C, Apex, MySQL, Javascript, ReactJS, Salesforce and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Kalyani Biradar and I have graduated with a Master's degree in Computer Science from [Syracuse University](https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science). I am a Software Developer with three years of experience working as a Salesforce Developer at [Infosys Limited](https://www.infosys.com/). My technology stack involves Java, Python, C, Apex, MySQL, Javascript, ReactJS, Salesforce and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.Currently, I work as a Graduate Research Intern at Syracuse University, where I am conducting research and working on an AI-powered travel assistant project to enhance user travel experiences using advanced NLP and real-time data integration.
 <!--
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
